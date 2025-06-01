@@ -1,6 +1,7 @@
 # GroceryFulfillAnalytics
 
 **OVERVIEW**
+
 A two‑week sprint to uncover operational bottlenecks in a hyper‑local grocery delivery service based in Bengaluru, India. By combining order, delivery‐tracking and customer‑rating data, I created some insights on hotspots and churn drivers, then simulated incentives to test potential fixes.
 
 **KEY FINDINGS**
